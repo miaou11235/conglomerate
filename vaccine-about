@@ -1,0 +1,39 @@
+<head>
+	<title>Vaccinces Don't Cause Autism</title>
+	<style>
+		body {
+			text-align: center;
+		}
+		h1 {
+			font-family:
+		}
+		img {
+		}
+		video {
+			controls: controls;
+			poster:
+			loop: loop;
+			width:
+			height:
+		}
+		figcaption {
+			margin: 0 360px 0 360px;
+		intro {
+			font-size: 20px;
+		}
+	</style>
+</head>
+<body>
+	<h1>Vaccines</br><small>They Don't Cause Autism</small></h1>
+	<div id="intro" class=""><p>This is the intro</p></div>
+	<img src="" />
+	<p>A paragraph describing stuff</p>
+	<figure><img border="3px solid black" width="600px" height="auto" src="https://i1.wp.com/ricochetscience.com/wp-content/uploads/2015/07/herd-immunity.jpg" /></figure>
+	<figcaption>The red dots represent individuals who are unvaccinated, and the green dots represent those who are vaccinated. If an unvaccinated person gets sick, they cannot pass their disease to many others because there is a wall of vaccinated people all around them.</figcaption>
+	<p><mark></mark></p>
+	<a href="index.html" />The index is here.</a>
+	<video>
+		<source src="" type="">
+	</video>
+</body>
+</html>
