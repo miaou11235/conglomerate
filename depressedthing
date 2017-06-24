@@ -1,0 +1,38 @@
+<doctype html>
+<head>
+<title>Uneasy</title>
+<style>
+body {
+background: black;
+text-align: center;
+}
+p {
+font-size: 30px;
+color: white;
+margin: 10 300 10 300;
+padding: 10px;
+}
+li {
+font-size: 30px;
+margin: 10 500 10 500;
+text-align: left;
+}
+</style>
+</head>
+<body>
+<h1 style="color: red;">I feel so out of sorts</h1>
+<p>I feel <b>pressured</b> by my therapist to tell her more</p>
+<p>I feel negatively (can't name an emotion) that I said details</p>
+<ul>
+<li>Anxious</li>
+<li>Like something <i>bad</i> will happen</li>
+<li>Uneasy</li>
+<li>Nauseated </li>
+</ul>
+<h5>I don't know what to do</h5>
+<p style="font-size: 40px;">I don't want to tell anyone but I want to tell someone. everything makes me feel nauseated</p>
+<p style="font-size: 20px;">I'm scared of how much I don't know how to cope. I keep skipping meals and consciously eating less at meals</p>
+<p>I almost want to escape by going to the hospital or something but I don't know what good that would do. what can they tell me that I don't already know? I can't take a vacation from my mind. it would just be a different place and even if it was nicer I'd still have to come back</p>
+</body>
+</br></br>&copy; Lee Jordan 2017
+</html>
