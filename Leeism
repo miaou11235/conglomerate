@@ -8,38 +8,49 @@
 		}
 		p {
 			margin: 10px 250px 10px 250px;
-			font-size: 18px;
+			font-size: 20px;
+			font-family: centaur;
 		}
 		h1 {
+			font-family: castellar;
+		}
+		h2 {
+			font-family: castellar;
 		}
 	</style>
 </head>
 <body>
+		<div id="Home">
 	<header>
 		<h1>Leeism: the One True Faith</h1>
 	</header>
-	<nav>
+	<nav style="font-family: centaur; font-size: 18px;">
 		<a href="#Home">Home</a>
-		<a href="#">Beliefs</a>
-		<a href="#">Contact</a>
+		<a href="#Beliefs">Beliefs</a>
+		<a href="#About">About</a>
+		<a href="#Contact">Contact</a>
 	</nav>
-	<div id="Home">
 		<p>We do not start life with a road map laid out before us; we must create our own path through the wilderness. Our human existance is too diverse for a straight and narrow way. We face danger, struggle, fear, and sorrow that the major world religions religions do not account for.</p>
-		<p>We come looking to religions to find answers about our daily experience: the pain we live with, the discrimination we face, the homelessness we suffer, the trauma we endure. We do not receive answers. At best, we receive reassurances of prayers. We are told what rituals we should do to improve ourselves. At worst, we are rejected and ostracized. At worst, we are killed.</p>
-		<p>The Leeist faith does not deny suffering. It does not pretend that suffering is for a greater good. The realization that there is no answer to the "problem of evil," as philosophers put it, is a core tenant of Leeism.</p>
+		<p>We come looking to religions to find answers about our daily experience of suffering. We do not receive answers. At best, we receive reassurances of prayers. We are told what rituals we should do to improve ourselves. At worst, we are rejected and ostracized. At worst, we are killed.</p>
+		<p>The Leeist faith does not deny how horrible the world is. It does not pretend that everything a greater good.</p>
 		<p>Instead of silencing those who suffer, Leeists lift them up. Instead of ostracizing those who do not fit the mold, Leeists celebrate them.</p>
 	</div>
 	<div id="Beliefs">
 		<h2>Leeist Beliefs</h2>
-		<p><i>Humanity</i></p>
 		<ul>
-			<li>Humans are basically good, except for those who are not.</li>
-			<li>Humans are not special snowflakes, but they all have inherent worth.</li>
-		<p><i>Evil</i></p>
-			<li>Everything is random, and there is no morally satisfying reason for the evil in the world.</li>
-			<li>Suffering is part of life and it is meaningless.</li>
-			<li>There is no such thing as a sin that directly influences natural events.</li>
-	
+			<li>You will die and you will eventually be forgotten.</li>
+			<li>Everything you do is futile.</li>
+			<li>There is no justice in the world: evil and suffering are meaningless.</li>
+			<li><i>Harry Potter</i> is the word of truth.</li>
+	</div>
+	</div id="About">
+		<h2>About Leeism</h2>
+		<p>Leeism was founded by the prophet Rebecca. Rebecca saw that no religion on Earth taught the Truth. When Rebecca read <i>Harry Potter</i>, they realized that they could use the medium of this prophetic book to teach the word of Truth to all the nations.</p>
+	</div>
+	<div id="Contact">
+		<h2>Join Leeism Today</h2>
+		<p>Contact us at <a href="#">contact@leeism-religion.org.au</a></p>
+	</div>
 </body>
-<footer></footer>
+<footer></br></br>&copy Rebecca Jordan 2017</footer>
 </html>
