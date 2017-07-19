@@ -1,64 +1,136 @@
 <!doctype html>
 <html>
-<head><title>Abusive Relationships</title></head>
+<head>
+	<link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet"> 
+	<link href="https://fonts.googleapis.com/css?family=Lemonada" rel="stylesheet"> 
+	<title>Abusive Relationships</title>
+	<style>
+		body {
+			text-align: center;
+			font-family: 'Muli', sans-serif;
+			
+background: rgba(183,222,237,1);
+background: -moz-linear-gradient(top, rgba(183,222,237,1) 0%, rgba(33,180,226,1) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(183,222,237,1)), color-stop(100%, rgba(33,180,226,1)));
+background: -webkit-linear-gradient(top, rgba(183,222,237,1) 0%, rgba(33,180,226,1) 100%);
+background: -o-linear-gradient(top, rgba(183,222,237,1) 0%, rgba(33,180,226,1) 100%);
+background: -ms-linear-gradient(top, rgba(183,222,237,1) 0%, rgba(33,180,226,1) 100%);
+background: linear-gradient(to bottom, rgba(183,222,237,1) 0%, rgba(33,180,226,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7deed', endColorstr='#21b4e2', GradientType=0 );
+
+		}
+		table {
+			margin: 10px 496px 10px 496px;
+			border: 3px solid black;
+			background: #21b4e2;
+		}
+		p {
+			margin: 20px;
+			padding: 5px 300px 5px 300px;
+		}
+		h1 {
+			font-family: 'Lemonada', cursive;
+		}
+		h2 {
+			font-family: 'Lemonada', cursive;
+		}
+		h3 {
+			font-family: 'Lemonada', cursive;
+		}
+	</style>
+</head>
 <body>
 
 <h1>Did you know?</h1>
-<p>Abusive relationships are very common. People who have been in abusive relationships previously are more likely to be in more abusive relationships. Abusive relationships can involve emotional manipulation, physical violence, and/or sexual assault. It is commonly thought that one is weak for staying in an abusive relationship, but that is not true because individuals in abusive relationships face a lot of pressure from their partners that others cannot understand from the outside.</p>
+<p>You've probably heard of <b>abusive relationships.</b> You might be in an abusive relationship in your future. You might have been in an abusive relationship previously. You might be an abusive relationship <i>right now.</i> I couldn't tell you because I'm a webpage.</p>
+<p>It might seem like an abusive relationsip is an abstract concept that won't really affect you, but that's not necessarily the case. It can happen to anyone, even if they appear to be completely suave and in control.</p>
 
 <table>
   <tr>
-    <th>General types of relationship abuse</th>
-  </tr>
-  <tr>
     <th>Type</th>
+    <th>|</th>
     <th>Explanation</th>
   </tr>
   <tr>
     <td>Psychological</td>
-    <td>Manipulating an individual's thoughts and emotions by using manipulative tactics.</td>
+    <td><b>|</b></td>
+    <td>Manipulating an individual's thoughts and emotions.</td>
   </tr>
   <tr>
     <td>Physical</td>
+    <td><b>|</b></td>
     <td>Hurting an individual's body.</td>
   </tr>
   <tr>
     <td>Sexual</td>
+    <td><b>|</b></td>
     <td>Sexual actions without an individual's consent.</td>
   </tr>  
   <tr>
 </table>
  
- <h2>How to Recognize an Abusive Relationship</h2> 
+ <h2>Common Misconceptions</h2>
+  <div style="text-align: left; padding: 5px 522px 5px 522px;">
   <ul>
-    <li> Recyle</li>
-    <li> Avoid buing cars with high O2 emission</li>
-    <li> Carpool when possible</li>
-    <li> Dispose of trash in proper public recepticle</li>
-    <li> Turn off lights not in use</li>
+    <li> Only women are the victims of abusive relationships.</li>
+    <li> Only weak people stay in abusive relationships.</li>
+    <li> Abusive relationships always involve physical abuse.</li>
+    <li> People say that they are being abused only for attention.</li>
+    <li> Abusive relationships are rare.</li>
   </ul>
+  </div>
   
-  <h2>Where Does Your Garbage Go?</h2>
-    <ol>
-    <li> Your trash can gets full</li>
-    <li> You take it to the curb</li>
-    <li> Garbage man comes around and takes it </li>
-    <li> He takes it to a transfer station before it goes to either:</li>
-      		<ul>
-            	<li>A landfill</li>
-                <li>An incinerator</li>
-                <li>Or a recyling center</li>
-            </ul>
-      
-  </ol>
-  
-  <h3> Sign Up for Our Newsletter</h3>
-  <h4>For bi-weekly updates on environmental news</h4>
+  <h2>How to Recognize an Abusive Relationship</h2>
+  <div style="text-align: left; padding: 5px 350px 5px 350px;">
+    <ul>
+    <li> Your partner belittles you and makes you feel small.</li>
+    <li> Your partner blames things they did on you.</li>
+    <li> Your partner doesn't listen to you when you say "no."</li>
+    <li> Your partner has a pattern of doing something bad and then convincing you they will never do it again.</li>
+    <li> Your partner lies to you to try to confuse you and make you question your own judgement.</li>
+    <li> Your partner controls your schedule and limits your social life.</li>
+    <li> Your partner controls other aspects of your life such as what you wear, what you eat, what job you have, etc.</li>
+    <li> Your partner hurts you by hitting, kicking, punching, pinching, cutting, burning, biting, or any other form of physical violence.</li>
+    <li> Your partner excuses their physical violence by telling you that you deserve it or that they can't control themselves.</li>
+    <li> Your partner touches your body without your permission, including while you are sleeping.</li>
+    <li> Your partner has sex with you without your consent.</li>
+    <li> Your partner coerces you to stay in the relationship by blackmailing you or threatening to kill someone or to kill themselves.</li>
+  </ul>
+  </div>
+
+  <h2>I'm in an Abusive Relationship. What Should I Do?</h2>
+  <div style="text-align: left; padding: 5px 350px 5px 350px;">
+    <ul>
+    <li> Call 911 or the emergency number in your area if it is an emergency.</li>
+    <li> Find local resources. They probably exist no matter where you are. If you need to escape the house, you can find a shelter for that purpose. You can use a search engine or call 211. 211 is a very useful resource.</li>
+    <li> Find online resources. Online support groups, forums, and chat rooms can help you feel less alone.</li>
+    <li> Tell a family member or friend that you trust.</li>
+    <li> If you are afraid of retaliation from your partner when you break up with them, get a local organization involved and they can help you.</li>
+    <li> Know that this is not how your life is going to be forever and you're going to get out of this.</li>
+    <li> Get professional counseling. A local or online charity may provide it for free or for a low cost. You're not crazy, but you've been through something horrible and it's hard to process it.</li>
+    <li> Remember that it's not your fault.</li>
+    </ul>
+  </div>
+
+  <h2>How can I help others?</h2>
+  <div style="text-align: left; padding: 5px 350px 5px 350px;">
+    <ul>
+    <li> If you see signs of abuse in someone's relationship, you can talk to the person and ask them if they're okay. You can be a listening ear for them in a time when they might be afraid to talk to anyone.</li>
+    <li> You can find out about local organizations and see if you can volunteer.</li>
+    <li> You can volunteer for a telephone hotline and talk to people in distress.</li>
+    <li> Interject if you think that something someone does could be considered abusive.</li>
+    <li> Oppose messages that condone abusive relationships, even in jest.</li>
+    <li> Be willing to talk to anyone and to help them.</li>
+  </ul>
+  </div>
+
+  <h3>Sign Up for Our Newsletter</h3>
+  <p>for monthly articles about healthy and abusive relationships</p>
 
   <form method="POST" action="http://formspree.io/YOUREMAILHERE">
-  <input type="email" name="email" placeholder="Your email"> 
+  <input type="email" name="email" placeholder="Email address"> 
     <br />
      <br />
-  <textarea name="message" placeholder="Tell Us How Awesome We Are"></textarea>
+  <textarea name="message" placeholder="Questions, comments, or concerns?"></textarea></br>
   <button type="submit">Send</button>
 </form>
