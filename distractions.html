@@ -18,6 +18,29 @@
 			flex-direction: row;
 			justify-content: space-around;
 		}
+				.box2 {
+				background: red;
+
+				animation-name: myframes2;
+				animation-duration: 7s;
+				animation-timing-function: ease-in-out;
+				animation-delay: 0s;
+				animation-iteration-count: infinite;
+				animation-direction: forward;
+				animation-fill-mode: forward;
+				animation-play-state: running;
+			}
+
+				@keyframes myframes2 {
+				0% {background-color: red;}
+				14% {background-color: orange;}
+				29% {background-color: yellow;}
+				43% {background-color: limegreen;}
+				57% {background-color: cyan;}
+				71% {background-color: blueviolet;}
+				86% {background-color: magenta;}
+				100% {background-color: red;}
+			}
 	</style>
 </head>
 <body>
@@ -106,8 +129,10 @@
 		<li>Shooting pool</li>
 		<li>Talking on the phone</li>
 		<li>Helping a friend cope</li>
+		<li>Staring at the colors:</li>
 	</ul>
 	</div>
+	<div class="box1">Gay!</br></br></br></br></br></br></br></br></br></br></div>
 	<footer></footer>
 </body>
 </html>
