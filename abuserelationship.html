@@ -17,16 +17,18 @@ background: -o-linear-gradient(top, rgba(183,222,237,1) 0%, rgba(33,180,226,1) 1
 background: -ms-linear-gradient(top, rgba(183,222,237,1) 0%, rgba(33,180,226,1) 100%);
 background: linear-gradient(to bottom, rgba(183,222,237,1) 0%, rgba(33,180,226,1) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7deed', endColorstr='#21b4e2', GradientType=0 );
-
 		}
-		table {
-			margin: 10px 496px 10px 496px;
+		#table {
+			margin: 10px 35% 10px 35%;
 			border: 3px solid black;
 			background: #21b4e2;
+			display: flex;
+			justify-content: center;
+			
 		}
 		p {
 			margin: 20px;
-			padding: 5px 300px 5px 300px;
+			padding: 5px 25% 5px 25%;
 		}
 		h1 {
 			font-family: 'Lemonada', cursive;
@@ -37,6 +39,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7deed', end
 		h3 {
 			font-family: 'Lemonada', cursive;
 		}
+		#bullets1 {
+			text-align: left;
+			display: flex;
+			justify-content: center;
+			margin: 10px 25% 10px 25%;
+		}
 	</style>
 </head>
 <body>
@@ -44,7 +52,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7deed', end
 <h1>Did you know?</h1>
 <p>You've probably heard of <b>abusive relationships.</b> You might be in an abusive relationship in your future. You might have been in an abusive relationship previously. You might be an abusive relationship <i>right now.</i> I couldn't tell you because I'm a webpage.</p>
 <p>It might seem like an abusive relationsip is an abstract concept that won't really affect you, but that's not necessarily the case. It can happen to anyone, even if they appear to be completely suave and in control.</p>
-
+<div id="table">
 <table>
   <tr>
     <th>Type</th>
@@ -68,9 +76,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7deed', end
   </tr>  
   <tr>
 </table>
- 
+ </div>
  <h2>Common Misconceptions</h2>
-  <div style="text-align: left; padding: 5px 522px 5px 522px;">
+  <div id="bullets1">
   <ul>
     <li> Only women are the victims of abusive relationships.</li>
     <li> Only weak people stay in abusive relationships.</li>
@@ -81,7 +89,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7deed', end
   </div>
   
   <h2>How to Recognize an Abusive Relationship</h2>
-  <div style="text-align: left; padding: 5px 350px 5px 350px;">
+  <div id="bullets1">
     <ul>
     <li> Your partner belittles you and makes you feel small.</li>
     <li> Your partner blames things they did on you.</li>
@@ -99,7 +107,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7deed', end
   </div>
 
   <h2>I'm in an Abusive Relationship. What Should I Do?</h2>
-  <div style="text-align: left; padding: 5px 350px 5px 350px;">
+  <div id="bullets1">
     <ul>
     <li> Call 911 or the emergency number in your area if it is an emergency.</li>
     <li> Find local resources. They probably exist no matter where you are. If you need to escape the house, you can find a shelter for that purpose. You can use a search engine or call 211. 211 is a very useful resource.</li>
@@ -113,7 +121,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7deed', end
   </div>
 
   <h2>How can I help others?</h2>
-  <div style="text-align: left; padding: 5px 350px 5px 350px;">
+  <div id="bullets1">
     <ul>
     <li> If you see signs of abuse in someone's relationship, you can talk to the person and ask them if they're okay. You can be a listening ear for them in a time when they might be afraid to talk to anyone.</li>
     <li> You can find out about local organizations and see if you can volunteer.</li>
@@ -123,14 +131,4 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7deed', end
     <li> Be willing to talk to anyone and to help them.</li>
   </ul>
   </div>
-
-  <h3>Sign Up for Our Newsletter</h3>
-  <p>for monthly articles about healthy and abusive relationships</p>
-
-  <form method="POST" action="http://formspree.io/YOUREMAILHERE">
-  <input type="email" name="email" placeholder="Email address"> 
-    <br />
-     <br />
-  <textarea name="message" placeholder="Questions, comments, or concerns?"></textarea></br>
-  <button type="submit">Send</button>
-</form>
+</html>
