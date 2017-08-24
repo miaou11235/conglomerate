@@ -1,0 +1,26 @@
+<!doctype html>
+<head>
+<style>
+		table {
+			display: flex;
+			justify-content: center;
+			text-align: left;
+			font-size: 25px;
+		}
+		table, th, td {
+			border: 2px solid black;
+			height: 50px;
+			text-align: left;
+		}
+</style>
+</head>
+<body>
+    <table>
+    	<tr>
+			<td><img src="https://i.imgur.com/O198zFw.png" style="height: 500px;"/></td>
+			<td><img src="https://i.imgur.com/I8jOuqz.png" style="height: 500px;"/></td>
+			<td><img src="https://i.imgur.com/firnb5q.png" style="height: 500px;"/></td>
+</tr>
+</table>
+</body>
+</html>
