@@ -1,0 +1,125 @@
+<!doctype html>
+<html>
+<head>
+	<link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
+	<title>Queer Scouts: Rule Explanations</title>
+	<style>
+		body {
+			text-align: center;
+			font-family: courier;
+			font-size: 20px;
+		}
+		h1 {
+			font-size: 48px;
+			margin: 0;
+		}
+		h2 {
+			color: forestgreen;
+		}
+		h3 {
+			font-size: 36px;
+			font-family: 'Press Start 2P', cursive;
+		}
+		h4 {
+			font-size:26px;
+			margin: 0 20% 0 25%;
+			text-align: left;
+		}
+		header {
+			font-family: 'Press Start 2P', cursive;
+		
+		}
+		nav {
+			font-size: 24px;
+			display: flex;
+			flex-direction: row;
+			justify-content: space-around;
+			background: lavender;
+		}
+		p, ol {
+			text-align: left;
+			margin: 10px 30% 10px 30%;
+		}
+
+
+		@media (max-width: 500px) {
+			p, ol {
+				margin: 10px 1% 10px 1%;
+			}
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>
+			<div style=color:skyblue;>Quee</div>
+			<div style=color:lightgray;>r Sc</div>
+			<div style=color:pink;>outs</div>
+		</h1>
+		<h2>All* Welcome!</h2>
+	</header>
+	<nav>
+		<a href=miaou11235>Home</a>
+		<a href=#>About</a>
+		<a href=#>Rules</a>
+	</nav>
+	<h3>Rule Explanations</h3>
+<ol>
+    <li id="#1">Everyone who joins the Queer Scouts IRC Channel is a Queer Scout! Queer Scouts must follow the Queer Scout Law. Therefore, everyone who joins the Queer Scouts IRC Channel must follow the Queer Scout law.<li>
+
+    <li id="#2">The official viewpoint of the Queer Scouts IRC Channel is that diversity of belief strengthens a community. This viewpoint is drawn from experience in previous IRC channels and from evidence from irl (in real life) communities. Homogeneous groups tend to be closed-minded and unaccepting of differences.</li>
+	<ul>
+        	<li>This is good: "I disagree, and this is why."</li>
+	        <li>This is not good: "I disagree, and you're a horrible person for having a different opinion!"</li>
+	</ul>
+    <li id="#3">Acting in a consistently mean or bullying manner is not accepted. People on the Queer Scouts IRC Channel are expected to be respectful of others. If you have a disagreement with someone, you can settle it with the person (unless that person refuses to).</li>
+
+    <li id="#4">The Queer Scouts IRC Channel are made so that we have a space where our genders are respected. Refusing to respect someone's gender is telling them that you don't respect them or care about them at all.</li>
+	<ul>
+        	<li>This is good: "What pronouns can I use to refer to you as?"</li>
+        	<li>This is not good: "Are you a boy or a girl?"</li>	
+	</ul>
+    <li id="#5">This is part of respecting others' genders. (See #4)</li>
+	<ul>
+	        <li>This is good: "Sharon is agender and their pronouns are they/them/theirs."</li>
+        	<li>This is not good: "Sharon says that they're agender but I think they're really a dude and they don't want to admit it."</li>
+	</ul>
+    <li id="#6">We acknowledge that "uncomfortable" seems like a broad category. You may think this is unjust and could be used for the malicious silencing of your speech. However, please recognize that the Queer Scouts IRC Channel is not a nation and is not required to guarantee 100% unrestricted free speech. If you came into my house and started making me uncomfortable, I would tell you to stop or I'd kick you out. Furthermore, there are plenty of good reasons someone might want to change the topic. Realize that you don't know what's happening inside everybody's head and that everybody's experiences are not like your own.</li>
+	<ul>
+        <li>This is good:</li>
+	<ul>
+            <li>Mark: "This isn't the best subject for me. Can we talk about something else? :/"</li>
+            <li>Sharon: "Okay. Have you seen what I drew on the Drawpile?"</li>
+	</ul>
+        <li>This is not good:</li>
+	<ul>
+            <li>Mark: "This isn't the best subject for me. Can we talk about something else? :/"</li>
+            <li>Sharon: "No, you're so whiny, Mark. Grow a thicker skin."</li>
+	</ul>
+	</ul>
+     <li id="#7">See the explanation for #6 above.</li>
+	<ul>
+        <li>This is good:</li>
+	<ul>
+            <li>Mark: "Heyyyy cutie."</li>
+            <li>Sharon: "Please stop flirting with me. You're making me uncomfortable."</li>
+            <li>Mark: "Okay, sorry. It won't happen again!"</li>
+	</ul>
+        <li>This is not good:</li>
+	<ul>
+            <li>Mark: "Heyyyy cutie."</li>
+            <li>Sharon: "Please stop flirting with me. You're making me uncomfortable."</li>
+            <li>Mark: "Sheesh, what's your problem?"</li>
+	</ul>
+	</ul>
+    <li id="#8">Glamorizing illegal activities makes them seem acceptable. This encourages horrible behavior and systemic oppression. Even for morally ambiguous (yet illegal) activities, it can encourage people to participate in activities that can get them in trouble with the law. We here at the Queer Scouts IRC Channel do not tolerate poopy heads.The aim of this channel is to be safe for everyone.</li>
+
+    <li id="#9">The Queer Scouts IRC Channel is safe for people under 18. Plus, people may be at work. That means that gratuitous NSFW content is not acceptable outside of PM, and is only acceptable there when consent is given. Educational content is acceptable but must be tagged, for obvious reasons.</li>
+
+    <li id="#10">That's the rule! The Queer Scouts IRC Channel is supposed to be a safe place, and if you don't agree you can leave.</li>
+
+    <li id="#11">If you want a place where your words have no consequences, go somewhere else. Also, this rule does not imply that it's okay to say horrible things about people who aren't part of minorities. Rule #1 says to respect others and to be kind and empathetic. This rule enforces it in a necessary area.</li>
+</ol>
+	<footer style=font-size:16px;>*FTMichael, most cis, and rule breakers are not welcome</br>&copy; Lee Jordan 2017</footer>
+</body>
+</html>
