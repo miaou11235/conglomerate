@@ -1,0 +1,81 @@
+<!doctype html>
+<html>
+<head>
+	<link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
+	<title>Queer Scouts: Home</title>
+	<style>
+		body {
+			text-align: center;
+			font-family: courier;
+			font-size: 20px;
+		}
+		h1 {
+			font-size: 48px;
+			margin: 0;
+		}
+		h2 {
+			color: forestgreen;
+		}
+		h3 {
+			font-size: 36px;
+			font-family: 'Press Start 2P', cursive;
+		}
+		h4 {
+			font-size:26px;
+			margin: 0 20% 0 25%;
+			text-align: left;
+		}
+		header {
+			font-family: 'Press Start 2P', cursive;
+		
+		}
+		nav {
+			font-size: 24px;
+			display: flex;
+			flex-direction: row;
+			justify-content: space-around;
+			background: lavender;
+		}
+		p {
+			text-align: left;
+			margin: 10px 30% 10px 30%;
+		}
+		#dvam {
+			width: 25%;	
+			height: auto;
+			border: 3px solid forestgreen;
+		}
+
+		@media (max-width: 500px) {
+			p {
+				margin: 10px 1% 10px 1%;
+			}
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>
+			<div style=color:skyblue;>Quee</div>
+			<div style=color:lightgray;>r Sc</div>
+			<div style=color:pink;>outs</div>
+		</h1>
+		<h2>All* Welcome!</h2>
+	</header>
+	<nav>
+		<a href=#>Home</a>
+		<a href=#>About</a>
+		<a href=#>Rules</a>
+	</nav>
+	<h3>News</h3>
+	<h4><small>23/10/17</small> Register Your Pronouns with AlisBot Today!</h4>
+	<p>AlisBot, the robot programmed by Queer Scout member Alis, now has the ability to remember your personal pronouns. If you forget what someone's pronouns are, your memory can be refreshed with a simple command. AlisBot can show you the correct usage of the pronouns, too, if you are confused. Other abilities that AlisBot has are to register your timezone and to tell you information from Wikipedia articles. Shi's a smart bot!</p>
+	<h4><small>23/10/17</small> Happy Domestic Violence Awareness Month!</h4>
+		<p>October is Domestic Violence Awareness Month. Queer Scouters have been recognizing this month by being aware of domestic violence and telling others about it. One Queer Scouts member, Lee, has been showing their support for domestic violence awareness (not domestic violence) by putting up posters at their school and posting creative messages on Instagram.</p>
+		<img id="dvam" src="https://scontent-mia3-1.cdninstagram.com/t51.2885-15/e35/22429698_282973058874635_9013690036951973888_n.jpg"/>
+	<h4><small>23/10/17</small> Interview with LeeBot</h4>
+	<p>Hello Hello Hello Hello Hello </p>
+	<p>Hello Hello Hello Hello Hello </p>
+	<footer style=font-size:16px;>*FTMichael, most cis, and rule breakers are not welcome</br>&copy; Lee Jordan 2017</footer>
+</body>
+</html>
